@@ -234,31 +234,7 @@ Customer-support data is integrated with subscription information to investigate
 6. **Proactive Customer Outreach**
 
    * Use email, SMS, or calls to address customer concerns before cancellation.
-
-## 📂 Repository Structure
-
-```text
-customer-churn-analysis/
-│
-├── data/
-│   └── customer_churn.db
-│
-├── notebooks/
-│   └── churn_analysis.ipynb
-│
-├── sql/
-│   └── churn_queries.sql
-│
-├── visualizations/
-│   └── charts/
-│
-├── reports/
-│   └── insights.pdf
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
+     
 
 ## ▶️ How to Run
 
@@ -329,13 +305,3 @@ notebooks/churn_analysis.ipynb
 * Automate SQL-to-Python data pipelines
 * Develop real-time churn monitoring
 * Create automated executive reporting
-
-## 👨‍💻 Author
-
-**Sameer Sardana**
-
-Data Analytics | Business Intelligence | Python | SQL | Data Visualization
-
----
-
-⭐ If you found this project useful, consider giving the repository a star.
